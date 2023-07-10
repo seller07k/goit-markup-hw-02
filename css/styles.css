@@ -5,11 +5,3 @@ body {
 }
 :root {
 }
-@font-face {
-  font-family: "Raleway";
-  src: url(" https://fonts.gstatic.com");
-}
-@font-face {
-  font-family: "Roboto";
-  src: url("https://fonts.googleapis.com");
-}
