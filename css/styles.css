@@ -97,6 +97,9 @@ body {
 .logoback {
   color: #f4f4fd;
 }
+.logo-back-main {
+  color: #2e2f42;
+}
 .logo-main {
   font-family: "Raleway", sans-serif;
   font-weight: 800;
