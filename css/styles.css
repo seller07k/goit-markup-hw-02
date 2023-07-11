@@ -47,3 +47,31 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
 }
+.sec {
+  background-color: #2e2f42;
+}
+.title {
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
+.main {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #4d5ae5;
+  background-color: #f4f4fd;
+  cursor: pointer;
+}
+.main:hover {
+  color: #ffffff;
+  background-color: #404bbf;
+}
+.main:focus {
+  color: #ffffff;
+  background-color: #404bbf;
+}
