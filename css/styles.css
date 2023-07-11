@@ -210,3 +210,14 @@ body {
   text-transform: capitalize;
   color: #2e2f42;
 }
+.footer {
+  background-color: #2e2f42;
+}
+.logo-back {
+  color: #f4f4fd;
+}
+.text-footer {
+  line-height: 1.5;
+  color: #f4f4fd;
+  letter-spacing: 0.02em;
+}
