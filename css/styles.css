@@ -166,3 +166,18 @@ body {
   text-transform: capitalize;
   color: #2e2f42;
 }
+.address {
+  font-style: normal;
+}
+.mailto {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.mailto:hover {
+  color: #404bbf;
+}
+.mailto:focus {
+  color: #404bbf;
+}
