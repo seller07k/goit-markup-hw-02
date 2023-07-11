@@ -75,3 +75,6 @@ body {
   color: #ffffff;
   background-color: #404bbf;
 }
+.photo {
+  text-decoration: none;
+}
