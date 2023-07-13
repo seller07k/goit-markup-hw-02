@@ -182,7 +182,7 @@ body {
 }
 .mailto:hover,
 .mailto:focus {
-  color: var();
+  color: var(--active-link-color);
 }
 .sec-four {
   background-color: var(--secondary-white-color);
