@@ -52,6 +52,10 @@ body {
   letter-spacing: 0.02em;
   color: var(--secondary-accent-color);
 }
+.maill:hover,
+.maill:focus {
+  color: var(--active-link-color);
+}
 .sec {
   background-color: var(--primary-white-color);
 }
