@@ -13,6 +13,11 @@ body {
   --secondary-accent-color: #434455;
   --active-link-color: #404bbf;
 }
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 .logo {
   font-family: var(--title-font);
   font-weight: 800;
@@ -75,6 +80,7 @@ body {
   color: var(--primary-accent-color);
   background-color: var(--secondary-white-color);
   cursor: pointer;
+  flex-grow: 1;
 }
 .main:hover,
 .main:focus {
